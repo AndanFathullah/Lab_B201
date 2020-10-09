@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">B201 App</string>
+    <string name="logo">logolab</string>
+    <string name="version">V 1.0</string>
+    <string name="helloaslab">Hallo Aslab!</string>
+    <string name="nama_lab">Nama Lab</string>
+    <string name="login">LOGIN</string>
+    <string name="gelb">gelb</string>
+    <string name="gela">gela</string>
+    <string name="gelc">gelc</string>
+    <string name="notif">Notification</string>
+    <string name="home">Home</string>
+    <string name="setting">Settings</string>
+    <string name="slide1">slide1</string>
+    <string name="profilepict">Profile Picture</string>
+    <string name="nama_aslab">Nama Aslab</string>
+    <string name="multimedia_and_apps">Multimedia and Apps</string>
+    <string name="Password">Password</string>
+    <string name="menu_absen">menu_absen</string>
+    <string name="menu_jaga">menu_jaga</string>
+    <string name="menu_rapat" />
+    <string name="menu_kas" />
+    <string name="menu_project" />
+    <string name="menu_tugas" />
+
+</resources>
